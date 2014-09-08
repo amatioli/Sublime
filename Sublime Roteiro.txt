@@ -1,0 +1,58 @@
+Usar o mouse apenas quando realmente necessario
+
+ Atalhos de Navegação:
+
+control (+) = zoom in
+control (-) = zoom out
+control k + b = Show/Hide Menu
+control + f = buscar simples
+control + shift + f = buscar em toda pasta
+alt + (1,2,3) = navega entre as abas
+control + shift + t = Reabre o ultimo arquivo fechado
+control + p: Vai para qualquer arquivo
+
+Atalhos de Layout
+
+Alt + shift + Números: Muda o layout
+
+
+Atalhos Dev:
+
+control + j = junta as linhas
+control + g = vá para a linha
+control + shift + k = deleta linha
+control + shift + seta pra cima = move seleção para cima
+control + d = encontra similiares (uma por uma)
+selecionar + control + shift + l = coloca multiplos cursores no final da linha
+control + shift + v = Colar Identado
+shift + tab = voltar tabulação
+control + shift + ; = Comenta a seleção
+control + ; = Comenta a linha
+control + k + (l - to lower case, u - to upper case) = Minuscula/Maiuscula
+
+Esquema de Cores:
+	Preferences - Color Scheme - Escolha
+
+Command Palette
+	Set Syntax
+
+Symbols
+@Css Elements/ Functions
+#Html Element
+
+Atalhos Customizáveis
+
+Package Control
+
+Snippets
+	Como criar
+		Cursor (Tab)
+	Como utilizar
+	Importar snippets prontos - Package Control
+
+Emmet
+	HTML
+	CSS
+
+Advanced New File
+	Control + Alt + N = Novo Arquivo ou com nova pasta
