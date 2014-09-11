@@ -1,7 +1,6 @@
-Usar o mouse apenas quando realmente necessario
 
  Atalhos de Navegação:
-
+===============================================================================================
 control (+) = zoom in
 control (-) = zoom out
 control k + b = Show/Hide Menu
@@ -17,7 +16,7 @@ Alt + shift + Números: Muda o layout
 
 
 Atalhos Dev:
-
+===============================================================================================
 control + j = junta as linhas
 control + g = vá para a linha
 control + shift + k = deleta linha
@@ -30,29 +29,39 @@ control + shift + ; = Comenta a seleção
 control + ; = Comenta a linha
 control + k + (l - to lower case, u - to upper case) = Minuscula/Maiuscula
 
+
+
 Esquema de Cores:
+===============================================================================================
 	Preferences - Color Scheme - Escolha
 
 Command Palette
+===============================================================================================
 	Set Syntax
 
 Symbols
+===============================================================================================
 @Css Elements/ Functions
 #Html Element
 
-Atalhos Customizáveis
+Configurações
+===============================================================================================
 
 Package Control
+===============================================================================================
 
 Snippets
+===============================================================================================
 	Como criar
 		Cursor (Tab)
 	Como utilizar
 	Importar snippets prontos - Package Control
 
 Emmet
+===============================================================================================
 	HTML
 	CSS
 
 Advanced New File
+===============================================================================================
 	Control + Alt + N = Novo Arquivo ou com nova pasta

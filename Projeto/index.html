@@ -11,12 +11,24 @@
 	    width: 100%;
 	    margin: 0;
 	    padding: 0;
-          background: 
+        margin: 10px;
+        margin-top: 100px;
 	  }
 	</style>
 	<script src="http://js.arcgis.com/3.10/"></script>
+	<script type="text/javascript">
+	      var map;
+	
+	      require(["esri/map", "dojo/domReady!"], function(Map) {
+	        map = new Map("map", {
+	          basemap: "topo",
+	          center: [-45.8769, -23.1999], //longitude e latitude
+	          zoom: 13
+	        });
+	      });
+	</script>
 </head>
 <body>
-teste2
+	<div id="map"></div>
 </body>
 </html>
